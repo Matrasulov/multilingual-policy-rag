@@ -74,6 +74,8 @@ A **document-grounded multilingual RAG pipeline** that:
 ## 🚀 Quick Start
 Run the following commands to execute the end-to-end pipeline:
 ```
+git clone https://github.com/Matrasulov/multilingual-policy-rag.git
+cd multilingual-policy-rag
 pip install -r requirements.txt
 python main.py
 ```
