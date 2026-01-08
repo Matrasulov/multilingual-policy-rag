@@ -1,0 +1,7 @@
+pymupdf
+python-docx
+transformers
+sentence-transformers
+torch
+numpy
+matplotlib
