@@ -71,7 +71,12 @@ A **document-grounded multilingual RAG pipeline** that:
 
 
 ---
-
+## 🚀 Quick Start
+Run the following commands to execute the end-to-end pipeline:
+```
+pip install -r requirements.txt
+python main.py
+```
 
 
 The following visualizations were generated to **validate retrieval quality, chunking strategy, and embedding behavior**.
