@@ -72,14 +72,6 @@ A **document-grounded multilingual RAG pipeline** that:
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-pip install -r requirements.txt
-python main.py
-## 📊 Evaluation & Visualizations```
-
----
 
 
 The following visualizations were generated to **validate retrieval quality, chunking strategy, and embedding behavior**.
